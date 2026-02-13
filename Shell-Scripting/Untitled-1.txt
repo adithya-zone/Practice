@@ -1,0 +1,4 @@
+AWS Access Key ID : <Shelliam01>
+AWS Secret Access Key : <Shelliam01>
+Default region name : ap-south-1
+Default output format : json
